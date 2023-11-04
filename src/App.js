@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import Weather from "./Weather";
+
+
 import './App.css';
 
 function App() {
@@ -7,10 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
        
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-          <Weather/>
-        </p>
+        <h1>
+          Weather App
+         </h1>
        
       </header>
     </div>
